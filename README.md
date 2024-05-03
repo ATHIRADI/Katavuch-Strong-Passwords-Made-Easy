@@ -1,16 +1,13 @@
 # katavuch
 
-A new Flutter project.
+**Struggling with weak passwords?** Katavuch is your **offline password manager** and **strong password generator** in one.  **Generate secure, random passwords** with ease, using uppercase & lowercase letters, numbers, and symbols. **Save your passwords securely** within the app, eliminating the need to remember them all.
 
-## Getting Started
+**Key Features:**
 
-This project is a starting point for a Flutter application.
+- **Generate strong, random passwords offline** (no internet connection required)
+- **Customize password length and character types**
+- **Save and manage your passwords securely**
+- **Easy-to-use interface**
 
-A few resources to get you started if this is your first Flutter project:
+**Stop worrying about password security. Buy Kadavuchol today!**.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
